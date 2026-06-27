@@ -15,6 +15,7 @@ and due to the compressed nature of this game a copy of binwalk
 | Debian | apt install binwalk |
 | arch   | pacman -S binwalk   |
 
+
 if you feel the need to add another package manager to the list dont be afraid to open up a Pull request
 
 # Installation
